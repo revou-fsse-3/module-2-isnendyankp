@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+    <!-- Head -->
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Cat Fansclub">
+        <!-- Title -->
+        <title>Cat Fansclub</title>
+        <!-- import css -->
+        <link rel="stylesheet" href="style.css">
+        
+    </head>
+
+    <!-- Body -->
+    <body>
+        <!-- Header -->
+        <header>
+            <!-- Nav Bar -->
+                <nav>
+                    <!-- Hamburger Menu -->
+                    <span class="mobile">
+                        <img
+                        src="https://user-images.githubusercontent.com/2970318/209647125-dc41103d-c545-4e2e-b89b-099fbfcde702.svg"
+                        alt="Hamburger Icon"
+                        />
+                    </span>
+                    <!-- Menu List -->
+                    <ul class="desktop">
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="gallery.php">Gallery</a></li>
+                        <li><a href="about.php">About Us</a></li>
+                        <li><a href="https://www.linkedin.com/in/isnendyan-kresna-purnama-a20836244/" target="_blank">Contact Us</a></li>
+                    </ul>
+                </nav>  
+        </header>
+
+        <!-- Main -->
+        <main>
+            
+            <!-- Title website -->
+            <section class="title">
+                <h1>Cat Fansclub</h1>
+                <p>Join our fansclub and get the latest information about cats</p>
+            </section>
+
+             <!-- Cat photos -->
+            <section class="cat-photos">
+                <h2>Cat Photos</h2>
+                <div class="grid-container">
+                    <!-- cat 1 -->
+                    <picture class="cat-1">
+                        <img src="https://thumbs.dreamstime.com/b/fat-black-cat-yellow-eyes-very-155717712.jpg" 
+                        alt="chubby black cat">
+                    </picture>
+                    <!-- cat 2 -->              
+                    <picture class="cat-2">
+                        <source media="(max-width:425px)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVGkWZN2NdxZGS-UIleXujqtFpA_QxOJOxxM3h86za2uFbllCPoeJ9FCS9B582yvzXx4&usqp=CAU">
+                        <source media="(max-width:768px)" srcset="https://petkeen.com/wp-content/uploads/2021/05/grey-cat-760x506.jpeg">
+                        <img src="https://hips.hearstapps.com/hmg-prod/images/scottish-fold-shorthair-cat-resting-on-chair-royalty-free-image-1658451719.jpg" alt="Lazy Gray cat">
+                    </picture>
+
+                    <!-- cat 3 -->
+                    <picture class="cat-3">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWjTYWETN5TqSZ_7KFWnbDS1F7ZZNqxWKjZVv08taVUT_PtnpUEyjzWPyoqgIgXtBFBz4&usqp=CAU" 
+                        alt="cat wearing a hat">
+                    </picture>
+                    <!-- cat 4 -->
+                    <picture class="cat-4">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiqADsOWaXnarGOt3IvdsbfwXwtNVChseoIRfFxhrcG3a7BWIBm_vSv2gengUJLf2fuAU&usqp=CAU" 
+                        alt="cat wearing a glasses ">
+                    </picture>
+                    <!-- cat 5 -->
+                    <picture class="cat-5">
+                        <img src="https://images.pexels.com/photos/736532/pexels-photo-736532.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" 
+                        alt="chubby orange cat">
+                    </picture>
+                </div>
+            </section>
+
+            <!-- Cat video -->
+            <section class="video-section">
+                <!-- cat video title -->
+                <h2 class="video-title">Cat Video</h2>
+                <!-- cat video -->
+                <div class="video-container">
+                    <iframe 
+                    width="560" 
+                    height="315" 
+                    src="https://www.youtube.com/embed/2XID_W4neJo" 
+                    title="YouTube video player" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen>
+                    </iframe>
+                </div>
+            </section>
+
+            <!-- Cat article -->
+            <section class="article-section">
+                <!-- cat article title -->
+                <h2 class="article-title">Cat Articles</h2>
+                <!-- cat article -->
+                <div class="article-container">
+                    <!-- Cat like boxes article -->
+                    <article class="article-1">
+                        <h3 class="article-question">Why do cats like boxes?</h3>
+                        <p>
+                            Cats like boxes because they are curious, and they like to explore. Cats also like boxes because they are comfortable, and they like to sleep in them. Cats also like boxes because they are warm, and they like to curl up in them. Cats also like boxes because they are safe, and they like to hide in them. And another reason:
+                        </p>
+                        <ul class="boxCat">
+                            <li>Boxes provide cats with a place to hide</li>
+                            <li>Boxes provide cats with a place to sleep</li>
+                            <li>Boxes provide cats with a place to play</li>
+                        </ul>
+                    </article>
+
+                    <!-- why are cats adorable article -->
+                    <article class="article-2">  
+                        <h3 class="article-question">Why are cats adorable?</h3>
+                        <p>
+                            Cats are adorable because they are cute, cuddly, and playful. Cats are also adorable because they are soft, fluffy, and furry. Cats are also adorable because they are funny, silly, and goofy. Cats are also adorable because they are curious, intelligent, and independent.
+                        </p>
+                    </article>
+                </div>
+            </section>
+
+            <!-- Form to join Fansclub-->
+            <section class="form-section">
+                <h2 class="form-title">Join our Fansclub</h2>
+                <form action="#">
+
+                    <!-- Fieldset 1 Main Personal Information -->
+                    <fieldset>
+                        <legend>Personal Information</legend>
+
+                            <!-- Full Name -->
+                            <div>
+                                <label for="fullName">Full Name:</label>
+                                <input type="text" id="fullName"  placeholder="Enter your full name" required>
+                            </div>
+                            <!-- Email -->
+                            <div>
+                                <label for="email">Email:</label>
+                                <input type="email" id="email" placeholder="Enter your email" required>
+                            </div>
+                            <!-- Contact Number -->
+                            <div>
+                                <label for="phone">Contact Number:</label>
+                                <input type="tel" id="phone" placeholder="Enter your phone number" required>
+                            </div>
+                            <!-- Address -->
+                            <div>
+                                <label for="address">Address:</label>
+                                <input type="text" id="address" placeholder="Enter your address" required>
+                            </div>
+                            <!-- Date -->
+                            <div>
+                                <label for="date">Date of Birth:</label>
+                                <input type="date" id="date" required>
+                            </div>
+                    </fieldset>
+
+                    <!-- Fieldset 2 Additional Information about cat fansclub-->
+                    <fieldset>
+                        <legend>Additional Information</legend>
+
+                        <!-- Question about having a cat with radio yes or no -->
+                        <div>
+                            <!-- Question having a cat -->
+                            <label for="cat">Do you have a cat?</label>
+                            <!-- Answer yes -->
+                            <input type="radio" id="otherbtn-yes" name="cat" value="yes">
+                            <label for="otherbtn-yes">Yes</label>
+                            <!-- Answer no -->
+                            <input type="radio" id="otherbtn-no" name="cat" value="no">
+                            <label for="otherbtn-no">No</label>
+                        </div>
+                        <!-- Essay Questions  -->
+                        <div>
+                            <label for="essay">Why do you want to join our fansclub?</label>
+                            <textarea id="essay" placeholder="Write your answer here" required></textarea>
+                        </div>
+                        <!-- upload cat picture here-->
+                        <div>
+                            <label for="catPic">Upload your cat picture here:</label>
+                            <input 
+                            type="file"
+                            id="catPic" 
+                            name="catPic" 
+                            accept="image/png, image/jpeg"
+                            />
+                        </div>
+                    </fieldset>
+
+                    <!-- Button Submit -->
+                    <button type="submit">Submit</button>
+
+                </form>
+            </section>
+        </main>
+
+        <!-- Create buttton back to top -->
+        <button onclick="topFunction()" class="myBtn" title="Go to top">Top</button>
+
+        <!-- import js -->
+        <script src="script.js"></script>
+    </body>
+</html>
