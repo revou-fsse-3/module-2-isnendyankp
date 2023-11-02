@@ -45,6 +45,26 @@ This task consists of:
 
 5. Creating a Sticky Navigation Bar.
 
+<!-- Task Week 3 -->
+
+## Task List week 3
+
+This task consists of:
+
+1. Applying custom font using @font-face.
+
+2. Applying text shadow to the text and list-style to the list.
+
+3. Applying 1 responsive background image.(using contain or cover)
+
+4. Applying 1 responsive background image with picture + source +srcset method.
+
+5. Creating 1 Asymmetrical Grid Layout.
+
+6. Using at least one advanced form element (date, color, local date, range picker).
+
+7. Creating simple animation using with two methods: animation and transasition.
+
 <!-- list Guide -->
 
 ## List Guide
