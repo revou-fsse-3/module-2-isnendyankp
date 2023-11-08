@@ -65,9 +65,6 @@ This task consists of:
 
 7. Creating simple animation using with two methods: animation and transasition.
 
-<!-- Task Week 4 -->
-
-## Task List week 4
 
 <!-- list Guide -->
 
