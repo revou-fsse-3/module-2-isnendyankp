@@ -162,6 +162,14 @@ Niagahoster is a web hosting provider based in Indonesia. The company offers var
 
 1. Open [Niagahoster](https://www.niagahoster.co.id/), then click login.
 
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Niagahoster 2.png" alt="Register Niagahoster">
+
+2. login with google(in this case i use google account).
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Niagahoster 3.png" alt="Register Niagahoster">
+
+3. Verify your account with email verification.(make sure your email is correct).
+
 <!-- list Guide -->
 
 ## List Guide
