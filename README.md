@@ -174,7 +174,7 @@ Niagahoster is a web hosting provider based in Indonesia. The company offers var
 
 4. Fill Personal Data information & setting password.
 
-### Connect to domain and DNS with Niagahoster
+### Create Domain with Niagahoster
 
 <img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNiagahoster 1.png" alt="Connect to domain and DNS with Niagahoster">
 
