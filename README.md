@@ -134,13 +134,15 @@ Netlify is a cloud-based platform that helps developers build, deploy, and manag
 
 <img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNetlify 4.png" alt="Deploy Netlify">
 
-4. Choose organization for before choose repository project. In this chase i choose revou-fsse-3.
+4. Choose organization before choose repository project. In this chase i choose revou-fsse-3.
 
 <img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNetlify 5.png" alt="Deploy Netlify">
 
 5. Choose repository project(module-2-isnendyankp).
 
-6. Click site overview to see your website.
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNetlify 6.png" alt="Deploy Netlify">
+
+6. Click Deploy site. (make sure base directory is correctly with your project) 
 
 
 <!-- list Guide -->
