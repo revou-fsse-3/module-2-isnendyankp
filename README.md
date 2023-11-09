@@ -110,6 +110,10 @@ This task consists of:
 
 3. Fill in the form with email and password.
 
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Netlify 4.png" alt="Register Netlify">
+
+4. Make sure your github connected with your netlify.(user icon > settings > General profile > connected accounts)
+
 <!-- list Guide -->
 
 ## List Guide
