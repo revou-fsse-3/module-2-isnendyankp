@@ -63,6 +63,16 @@ This task consists of:
 
 7. Creating simple animation using with two methods: animation and transasition.
 
+## Task List week 4
+
+This task consists of:
+
+1. Deployment Process.
+
+2. Connect to domain and DNS.
+
+3. Documenting Deployment Process.
+
 
 <!-- list Guide -->
 
