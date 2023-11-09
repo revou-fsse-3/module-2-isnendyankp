@@ -84,9 +84,13 @@ This task consists of:
 
 1. Open [Github](https://github.com/), then click sign up.
 
-<img style="padding-bottom: 2%; padding-top: 3%;" width="80%" src="Deployment Prosess\Github 2.png" alt="Register github">
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Github 2.png" alt="Register github">
 
 2. Fill in the form with email.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Github 3.png" alt="Register github">
+
+3.  In this case, I already have a github account, so this example for main github page.
 
 
 
