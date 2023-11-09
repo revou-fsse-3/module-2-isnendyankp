@@ -100,11 +100,15 @@ This task consists of:
 
 <img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Netlify 1.png" alt="Register Netlify">
 
-1. Open [Netlify](https://www.netlify.com/), then click sign up.
+1. Open [Netlify](https://www.netlify.com/), then click login.
 
-2.
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Netlify 2.png" alt="Register Netlify">
 
-3.
+2. Click login with github.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Netlify 3.png" alt="Register Netlify">
+
+3. Fill in the form with email and password.
 
 <!-- list Guide -->
 
