@@ -98,7 +98,9 @@ This task consists of:
 
 ### Register Netlify
 
-1.
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Netlify 1.png" alt="Register Netlify">
+
+1. Open [Netlify](https://www.netlify.com/), then click sign up.
 
 2.
 
