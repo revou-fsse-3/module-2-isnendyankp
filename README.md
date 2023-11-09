@@ -176,29 +176,33 @@ Niagahoster is a web hosting provider based in Indonesia. The company offers var
 
 ### Create Domain with Niagahoster
 
-<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNiagahoster 1.png" alt="Connect to domain and DNS with Niagahoster">
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNiagahoster 1.png" alt="Create Domain">
 
 1. Enter your domain name in the search box and click Search.
 
-<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNiagahoster 2.png" alt="Connect to domain and DNS with Niagahoster">
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNiagahoster 2.png" alt="Create Domain">
 
 2. Choose your domain name.(in this case i choose isnendyankp.site).
 
-<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNiagahoster 3.png" alt="Connect to domain and DNS with Niagahoster">
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNiagahoster 3.png" alt="Create Domain">
 
 3. Choose your hosting plan.(in this case i choose 1 year billing period).
 
-<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNiagahoster 4.png" alt="Connect to domain and DNS with Niagahoster">
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNiagahoster 4.png" alt="Create Domain">
 
 4. Choose your method payment.
 
-<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNiagahoster 5.png" alt="Connect to domain and DNS with Niagahoster">
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNiagahoster 5.png" alt="Create Domain">
 
 5. Complete your registration at Primary Details & Contact Details. Then click Register.
 
-<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNiagahoster 6.png" alt="Connect to domain and DNS with Niagahoster">
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNiagahoster 6.png" alt="Create Domain">
 
 6. Check your email for verification at Domain Overview > Domain Information > Domain email Verification.
+
+#### Add Domain to Netlify DNS
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Domain to Netlify DNS 1.png" alt="Add Domain to Netlify DNS">
 
 <!-- list Guide -->
 
