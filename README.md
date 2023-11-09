@@ -196,6 +196,10 @@ Niagahoster is a web hosting provider based in Indonesia. The company offers var
 
 5. Complete your registration at Primary Details & Contact Details. Then click Register.
 
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNiagahoster 6.png" alt="Connect to domain and DNS with Niagahoster">
+
+6. Check your email for verification at Domain Overview > Domain Information > Domain email Verification.
+
 <!-- list Guide -->
 
 ## List Guide
