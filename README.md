@@ -4,7 +4,7 @@
 <!-- Description -->
 ## Description
 
-> This is an assignment for week 1-2 at modul 1 test RevoU. The task is creating a simple website form.
+> This is an assignment for week 1-4 at modul 1 test RevoU. The task is creating a simple website with form.
 
 <!-- Link Deploy -->
 
