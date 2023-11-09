@@ -78,6 +78,8 @@ This task consists of:
 
 ## Github
 
+GitHub is a web-based platform used for version control and collaboration in software development projects. It provides a place for developers to store and manage their code repositories, collaborate with other developers, and track changes made to code over time.
+
 ### Register Github
 
 <img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Github 1.png" alt="Register github">
