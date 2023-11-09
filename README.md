@@ -74,6 +74,17 @@ This task consists of:
 3. Documenting Deployment Process.
 
 
+<!-- Github -->
+
+## Github
+
+### Register Github
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Github 1.png" alt="Register github">
+
+1. Open [Github](https://github.com/)
+
+
 <!-- list Guide -->
 
 ## List Guide
