@@ -184,6 +184,10 @@ Niagahoster is a web hosting provider based in Indonesia. The company offers var
 
 2. Choose your domain name.(in this case i choose isnendyankp.site).
 
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNiagahoster 3.png" alt="Connect to domain and DNS with Niagahoster">
+
+3. Choose your hosting plan.(in this case i choose 1 year billing period).
+
 <!-- list Guide -->
 
 ## List Guide
