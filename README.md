@@ -156,6 +156,12 @@ Netlify is a cloud-based platform that helps developers build, deploy, and manag
 
 Niagahoster is a web hosting provider based in Indonesia. The company offers various hosting services, including shared hosting, cloud hosting, and VPS hosting. They also provide domain registration and website builder tools to help individuals and businesses establish an online presence.
 
+### Register Niagahoster
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Niagahoster 1.png" alt="Register Niagahoster">
+
+1. Open [Niagahoster](https://www.niagahoster.co.id/), then click login.
+
 <!-- list Guide -->
 
 ## List Guide
