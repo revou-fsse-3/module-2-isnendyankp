@@ -98,6 +98,8 @@ GitHub is a web-based platform used for version control and collaboration in sof
 
 ## Netlify
 
+Netlify is a cloud-based platform that helps developers build, deploy, and manage modern web applications. It simplifies the process of hosting and deploying websites by providing a seamless integration with Git and a powerful continuous deployment workflow.
+
 ### Register Netlify
 
 <img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Netlify 1.png" alt="Register Netlify">
@@ -115,6 +117,7 @@ GitHub is a web-based platform used for version control and collaboration in sof
 <img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Netlify 4.png" alt="Register Netlify">
 
 4. Make sure your github connected with your netlify.(user icon > settings > General profile > connected accounts)
+
 
 <!-- list Guide -->
 
