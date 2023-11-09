@@ -170,6 +170,10 @@ Niagahoster is a web hosting provider based in Indonesia. The company offers var
 
 3. Verify your account with email verification.(make sure your email is correct).
 
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Niagahoster 4.png" alt="Register Niagahoster">
+
+4. Fill Personal Data information & setting password.
+
 <!-- list Guide -->
 
 ## List Guide
