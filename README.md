@@ -92,10 +92,17 @@ This task consists of:
 
 3.  In this case, I already have a github account, so this example for main github page.
 
+<!-- Netlify -->
 
+## Netlify
 
+### Register Netlify
 
+1.
 
+2.
+
+3.
 
 <!-- list Guide -->
 
