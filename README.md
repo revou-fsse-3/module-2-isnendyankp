@@ -120,11 +120,17 @@ Netlify is a cloud-based platform that helps developers build, deploy, and manag
 
 ### Deployment project with Netlify
 
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNetlify 1.png" alt="Deploy Netlify">
+
 1. Click new site from git.
 
-2. Choose your git provider.
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNetlify 2.png" alt="Deploy Netlify">
 
-3. Choose your repository.
+2. Choose Import an existing project.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNetlify 3.png" alt="Deploy Netlify">
+
+3. Choose Deploy with GitHub.
 
 4. Click deploy site.
 
