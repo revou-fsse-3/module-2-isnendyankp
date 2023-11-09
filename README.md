@@ -82,7 +82,15 @@ This task consists of:
 
 <img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Github 1.png" alt="Register github">
 
-1. Open [Github](https://github.com/)
+1. Open [Github](https://github.com/), then click sign up.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="80%" src="Deployment Prosess\Github 2.png" alt="Register github">
+
+2. Fill in the form with email.
+
+
+
+
 
 
 <!-- list Guide -->
