@@ -152,6 +152,9 @@ Netlify is a cloud-based platform that helps developers build, deploy, and manag
 
 8. You can rename your project in site choose project > site configuration > site details > Change site name.
 
+## Niagahoster
+
+Niagahoster is a web hosting provider based in Indonesia. The company offers various hosting services, including shared hosting, cloud hosting, and VPS hosting. They also provide domain registration and website builder tools to help individuals and businesses establish an online presence.
 
 <!-- list Guide -->
 
