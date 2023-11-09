@@ -148,6 +148,10 @@ Netlify is a cloud-based platform that helps developers build, deploy, and manag
 
 7. Check your project in netlify site Team overview then choose your project.
 
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\DNetlify 8.png" alt="Deploy Netlify">
+
+8. You can rename your project in site choose project > site configuration > site details > Change site name.
+
 
 <!-- list Guide -->
 
