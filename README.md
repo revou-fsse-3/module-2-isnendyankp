@@ -118,6 +118,20 @@ Netlify is a cloud-based platform that helps developers build, deploy, and manag
 
 4. Make sure your github connected with your netlify.(user icon > settings > General profile > connected accounts)
 
+### Deployment project with Netlify
+
+1. Click new site from git.
+
+2. Choose your git provider.
+
+3. Choose your repository.
+
+4. Click deploy site.
+
+5. Wait for the deployment process.
+
+6. Click site overview to see your website.
+
 
 <!-- list Guide -->
 
