@@ -206,6 +206,14 @@ Niagahoster is a web hosting provider based in Indonesia. The company offers var
 
 1. Open your [Netlify](https://www.netlify.com/), then click Domains section.
 
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Domain to Netlify DNS 2.png" alt="Add Domain to Netlify DNS">
+
+2. Click your domain.
+
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Domain to Netlify DNS 3.png" alt="Add Domain to Netlify DNS">
+
+3. Normaly you have 4 name server
+
 <!-- list Guide -->
 
 ## List Guide
