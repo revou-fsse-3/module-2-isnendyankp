@@ -8,7 +8,7 @@
 
 <!-- Link Deploy -->
 
-> Link Deploy: https://advanced-fansclub.netlify.app/
+> Link Deploy: https://isnendyankp.site/
 
 <!-- Deliverables  -->
 ## Deliverables
