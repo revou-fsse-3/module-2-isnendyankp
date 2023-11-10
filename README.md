@@ -222,6 +222,10 @@ Niagahoster is a web hosting provider based in Indonesia. The company offers var
 
 5. Checking your domain in Netlify Domain management. (normally it takes 24 hours to change your domain name server).
 
+<img style="padding-bottom: 2%; padding-top: 3%;" width="100%" src="Deployment Prosess\Domain to Netlify DNS 6.png" alt="Add Domain to Netlify DNS">
+
+6. The domain can be used if there is a Netlify checklist.
+
 <!-- list Guide -->
 
 ## List Guide
